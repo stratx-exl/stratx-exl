@@ -1,6 +1,4 @@
-# ![Stratx ExL FINAL logo](.\img\Stratx ExL FINAL logo.png)
-
-
+# ![Stratx ExL FINAL logo](https://github.com/stratx-exl/stratx-exl/blob/master/img/Stratx%20ExL%20FINAL%20logo.png)
 
 # Empower Your Organization Through Experiential Learning
 
